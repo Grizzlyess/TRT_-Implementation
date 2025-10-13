@@ -22,5 +22,11 @@
 
 ### Implementação 7. Pequeno Jogo 2D de Sprites e Tiles
 
-* **Descrição:** [Descreva a finalidade deste repositório de forma clara e concisa. Por exemplo: "Este é o serviço de backend responsável pela autenticação e gerenciamento de usuários."]
-
+* **Descrição:** Implementação em Pygame de um jogo Sokoban, utilizando mapa de tiles e sprite; a aplicação conta as aventuras de 2 ursos.
+```bash
+    git clone [https://github.com/seu-usuario/nome-do-repositorio-1.git](https://github.com/seu-usuario/nome-do-repositorio-1.git)
+    git clone [https://github.com/seu-usuario/nome-do-repositorio-2.git](https://github.com/seu-usuario/nome-do-repositorio-2.git)
+    git clone [https://github.com/seu-usuario/nome-do-repositorio-3.git](https://github.com/seu-usuario/nome-do-repositorio-3.git)
+    git clone [https://github.com/seu-usuario/nome-do-repositorio-4.git](https://github.com/seu-usuario/nome-do-repositorio-4.git)
+    git clone [https://github.com/seu-usuario/nome-do-repositorio-5.git](https://github.com/seu-usuario/nome-do-repositorio-5.git)
+    ```
