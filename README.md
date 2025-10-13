@@ -23,10 +23,7 @@
 ### Implementação 7. Pequeno Jogo 2D de Sprites e Tiles
 
 * **Descrição:** Implementação em Pygame de um jogo Sokoban, utilizando mapa de tiles e sprite; a aplicação conta as aventuras de 2 ursos.
+* Disponível em: 
 ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio-1.git](https://github.com/seu-usuario/nome-do-repositorio-1.git)
-    git clone [https://github.com/seu-usuario/nome-do-repositorio-2.git](https://github.com/seu-usuario/nome-do-repositorio-2.git)
-    git clone [https://github.com/seu-usuario/nome-do-repositorio-3.git](https://github.com/seu-usuario/nome-do-repositorio-3.git)
-    git clone [https://github.com/seu-usuario/nome-do-repositorio-4.git](https://github.com/seu-usuario/nome-do-repositorio-4.git)
-    git clone [https://github.com/seu-usuario/nome-do-repositorio-5.git](https://github.com/seu-usuario/nome-do-repositorio-5.git)
-    ```
+    https://github.com/Grizzlyess/Beartales.git
+```
