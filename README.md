@@ -26,4 +26,5 @@
 * Disponível em: 
 ```bash
     https://github.com/Grizzlyess/Beartales.git
+    /Beartales
 ```
