@@ -1,3 +1,6 @@
 [submodule "Beartales"]
 	path = Beartales
 	url = https://github.com/Grizzlyess/Beartales.git
+[submodule "PyCairo"]
+	path = PyCairo
+	url = https://github.com/LevySena/PyCairo
