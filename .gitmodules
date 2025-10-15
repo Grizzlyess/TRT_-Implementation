@@ -7,3 +7,6 @@
 [submodule "OpenGL_GLFW"]
 	path = OpenGL_GLFW
 	url = https://github.com/Agliandro/OpenGL_GLFW.git
+[submodule "Interpolacao_de_Cores"]
+	path = Interpolacao_de_Cores
+	url = https://github.com/OViniSA/Interpolacao_de_Cores
