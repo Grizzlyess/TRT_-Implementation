@@ -4,3 +4,6 @@
 [submodule "PyCairo"]
 	path = PyCairo
 	url = https://github.com/LevySena/PyCairo
+[submodule "OpenGL_GLFW"]
+	path = OpenGL_GLFW
+	url = https://github.com/Agliandro/OpenGL_GLFW.git
