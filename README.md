@@ -2,7 +2,7 @@
 
 ### Implementação 1. OpenGL com GLUT ou GLFW
 
-* **Descrição:** Alguma coisa
+* **Descrição:** OpenGL com GLFW em Python
 
   
 ### Implementação 2. Interpolação de Cores #A
