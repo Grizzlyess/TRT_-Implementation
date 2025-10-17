@@ -12,7 +12,7 @@
 
 ### Implementação 4. Gráficos 2D com Cairo ou Canvas 2D
 
-* **Descrição:** Alguma coisa
+* **Descrição:** Imagens geradas com a biblioteca Cairo para Python
 
 
 ### Implementação 5. Quadtree com Cairo ou Canvas 2D
