@@ -10,3 +10,6 @@
 [submodule "Interpolacao_de_Cores"]
 	path = Interpolacao_de_Cores
 	url = https://github.com/OViniSA/Interpolacao_de_Cores
+[submodule "libs/quadtree"]
+	path = libs/quadtree
+	url = https://github.com/Cleitonghw/Quadtree-com-Cairo-ou-Canvas-2D.git
