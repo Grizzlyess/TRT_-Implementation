@@ -17,7 +17,8 @@
 
 ### Implementação 5. Quadtree com Cairo ou Canvas 2D
 
-* **Descrição:** Alguma coisa
+* **Descrição:** Projeto da disciplina Computação Gráfica, que mostra uma Quadtree interativa feita em HTML, CSS e JavaScript.
+Ao clicar em um quadrante do canvas, ele é subdividido em quatro novos quadrantes, ilustrando a subdivisão espacial.
 
 
 ### Implementação 7. Pequeno Jogo 2D de Sprites e Tiles
