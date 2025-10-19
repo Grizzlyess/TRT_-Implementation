@@ -7,7 +7,7 @@
   
 ### Implementação 2. Interpolação de Cores #A
 
-* **Descrição:** Alguma coisa
+* **Descrição:** Aplicação simples usando HTML, CSS e JS para demonstrar interpolação de cores.
 
 
 ### Implementação 4. Gráficos 2D com Cairo ou Canvas 2D
